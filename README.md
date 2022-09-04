@@ -11,5 +11,5 @@ Uporabljala bom program *Mathematica*.
 4. Za vsakega izmed njih bom nihanje vrednosti prikazala z grafom.
 5. Ogled točnih vrednosti bo prikazan tudi v stolpičnem diagramu.
 
-##Posnetek:
-Do posnetka lahko dostopate [tukaj](https://youtu.be/aQWnipS_--k)
+### Posnetek:
+Do posnetka lahko dostopate [tukaj](https://youtu.be/aQWnipS_--k).
