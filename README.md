@@ -1,6 +1,6 @@
 # Nihanje vrednosti kmetijskih izdelkov v Sloveniji skozi leta
 Tu je predstavljen načrt projekta pri predmetu **Računalniška orodja v matematiki** v 1. letniku študija na Fakulteti za matematiko in fiziko v Ljubljani.
-V njem analiziram podatke o prodaji kmetijskih pridelkov iz lastne pridelave v Sloveniji med leti 2000 in 2021. 
+V njem analiziram podatke (količino in povprečno ceno) o prodaji kmetijskih pridelkov iz lastne pridelave v Sloveniji med leti 2000 in 2021. 
 
 Uporabljala bom program *Mathematica*.
 
